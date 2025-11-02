@@ -1,4 +1,4 @@
-# Anime Style Transfer
+# AI Face Transformation
 
 This project transforms real human face images into anime-style portraits using CycleGAN.
 
@@ -41,3 +41,4 @@ No installation needed if using Colab.
 To run locally:
 ```bash
 pip install torch torchvision opencv-python matplotlib
+
